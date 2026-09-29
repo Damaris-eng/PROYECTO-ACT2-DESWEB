@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(250, 229, 250);
+    font-family: Arial;
+}
+
+.dive {
+    text-align: center;
+    margin: 50px;
+}
+
+.dive2 {
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    padding: 8px;
+}
+
+img {
+    width: 20px;
+     height: auto
+}
